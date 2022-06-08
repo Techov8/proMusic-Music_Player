@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "533626071042",
+    "project_id": "techov8-promusic",
+    "storage_bucket": "techov8-promusic.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:533626071042:android:4d24d25b60ae6501735f1b",
+        "android_client_info": {
+          "package_name": "io.github.muntashirakon.music"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "533626071042-j9ic3gem8vibu7rq5sl7vul9m55qf5mb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.github.muntashirakon.music",
+            "certificate_hash": "7640d9b0f0528ca80f17008f0fe076b245a5b77c"
+          }
+        },
+        {
+          "client_id": "533626071042-66c1uisnlpftcordnpfsghtiu2791gsh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbJUco6hWz727fHAjbu6Dk6r8JbMhM3w8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "533626071042-66c1uisnlpftcordnpfsghtiu2791gsh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
