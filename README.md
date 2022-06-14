@@ -9,6 +9,7 @@ Dark and Just Black for AMOLED displays. Select your favorite accent
 color from a color palette.
 
 ### 🏠 Home
+Smart Recommendation engine which provides based on users music choice history
 Where you can view your recently/top played artists, albums and
 favorite songs. No other music player has this feature.
 
